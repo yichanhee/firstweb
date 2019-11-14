@@ -1,20 +1,42 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
+<head><title>나의 첫번째 웹</title></head>
     <meta charset="utf-8">
-    <title>나의 첫번째 웹</title>
-  <head><strong> 내가 좋아하는 것들</strong>
-  <body>
-<ol>
-<style>
+
+
+  <head><h1> 내가 좋아하는 것들 </h1></head>
+
+  <style>
+  h1{
+font-size:45px;
+text-align: center;
+border-bottom:1px solid gray;
+margin:0;
+padding:20px;
+}
+ol{border-right:1px solid gray;
+width:100px;
+margin:0;
+padding:20px;
+}
 a {color:black;}
 a {text-decoration: none;}
 a {font-size: 20px}
 .spicy{color:red;}
 .drama{color:brown;}
 .DIY{color:orange;}
+h1{text-align: center;
+font-size: 50px;
+border-bottom: 1px gray solid}
+.grid{display: grid;
+grid-template-columns: 150px 1fr;}
+div{border: 5px solid pink;}
 </style>
-</head>
+</h1>
+<body>
+<div id="grid"></div>
+<ol>
     <li><a href="1.html" class="spicy" >매콤한 음식들</a></li>
     <li><a href="2.html" class="drama">드라마</a></li>
     <li><a href="3.html" class="DIY">DIY</a></li>
