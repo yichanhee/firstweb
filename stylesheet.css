@@ -1,0 +1,24 @@
+  h1 {font-size:45px;
+text-align: center;
+border-bottom:1px solid gray;
+margin:0;
+padding:20px;}
+  ol{
+  width:100px;
+margin:0;
+padding:10px;
+}
+a {color:black;}
+a {text-decoration: none;}
+a {font-size: 20px}
+.spicy{color: red;}
+.drama{color: brown;}
+.DIY{color: orange; }
+
+#grid{display: grid;
+grid-template-columns: 150px 1fr}
+#grid #navigation{ padding-left: 33px}
+#grid #article{padding-left: 25px}
+#navigation{
+  border-right: 1px solid gray;
+}
