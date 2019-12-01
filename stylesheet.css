@@ -11,10 +11,10 @@ h1{
   margin:0;
   padding:10px;
  }
- body{background-image: url('moon.PNG');
+ body{background-image: url('sky.jpg');
  background-repeat: no-repeat;
  background-size: cover;}
- .favorite{ color:navy; font-size: 45px; text-decoration: none; background-color: white; text-shadow: 6px 2px 2px lightblue;}
+ .favorite{ color:navy; font-size: 45px; text-decoration: none; background-color: white; text-shadow: 6px 2px 2px lightpink;}
   .spicy{color:orange;
     text-decoration:none;
 font-size: 20px;}
@@ -31,10 +31,11 @@ grid-template-columns: 150px 1fr}
 #navigation{
   border-right: 1px solid white;
 }
-body{ font-family:"맑은고딕", arial sans-serif;}
+body{ font-family:"Nanum Myeongjo", 'Times New Roman';}
 @media (max-width:800px)
  {#grid{display: block;}
 ol{border-right:none;}
 h1{border-bottom:none;}
+
 
 }
