@@ -1,1 +1,17 @@
 # myfirstweb
+<img width= "350" height= "350" src="https://user-images.githubusercontent.com/56674561/69939705-e3510d80-1523-11ea-9577-4dba861eee47.jpg">
+![chicken](https://user-images.githubusercontent.com/56674561/69939706-e3e9a400-1523-11ea-818f-ed93dffda93b.jpg)
+![clay](https://user-images.githubusercontent.com/56674561/69939707-e3e9a400-1523-11ea-8a3a-98b15d85eade.jpg)
+![drama1](https://user-images.githubusercontent.com/56674561/69939709-e3e9a400-1523-11ea-8eed-a5b95b946a12.jpg)
+![drama2](https://user-images.githubusercontent.com/56674561/69939711-e3e9a400-1523-11ea-99a8-b31b5727075e.jpg)
+![drama3](https://user-images.githubusercontent.com/56674561/69939713-e4823a80-1523-11ea-84be-54a1f4c41930.jpg)
+![drama4](https://user-images.githubusercontent.com/56674561/69939714-e4823a80-1523-11ea-9f10-7bd895b43580.jpg)
+![drama5](https://user-images.githubusercontent.com/56674561/69939715-e4823a80-1523-11ea-8298-e41838fc21d8.jpg)
+![needle](https://user-images.githubusercontent.com/56674561/69939717-e4823a80-1523-11ea-9b89-744790e3ec4c.jpg)
+![red soup](https://user-images.githubusercontent.com/56674561/69939718-e51ad100-1523-11ea-9fd9-1de51b0afe7c.jpg)
+![sheep](https://user-images.githubusercontent.com/56674561/69939719-e51ad100-1523-11ea-8264-eed6e7513943.jpg)
+![sky](https://user-images.githubusercontent.com/56674561/69939721-e51ad100-1523-11ea-94c7-3dca9707da5c.jpg)
+![soondae](https://user-images.githubusercontent.com/56674561/69939722-e5b36780-1523-11ea-8e89-9f8dfc090358.jpg)
+![SPICY 1](https://user-images.githubusercontent.com/56674561/69939723-e5b36780-1523-11ea-9afb-f3d3f7a333ef.jpg)
+![another redheart](https://user-images.githubusercontent.com/56674561/69939725-e5b36780-1523-11ea-934c-140b92e2211e.png)
+![arm1](https://user-images.githubusercontent.com/56674561/69939726-e5b36780-1523-11ea-9c04-20e308a24578.jpg)
